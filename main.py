@@ -1,4 +1,4 @@
-# a Calculator , with the gui from Kivy and python doing the calculations
+# a Calculator , with the GUI from Kivy and Python doing the calculations
 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
